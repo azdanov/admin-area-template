@@ -2,7 +2,7 @@
 
 Demo showcasing an admin area for managing a web application.
 
-[Live](http://azdanov.js.org/admin-area-template/)
+[Live](https://azdanov.js.org/admin-area-template/)
 
 ## Tools
 
